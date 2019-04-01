@@ -11,6 +11,8 @@ public class Test {
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 System.out.println("gud mrng");
+System.out.println("gud aftn ");
+System.out.println("hello github welcome");
 try {
 	Connection con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:orcl","scott","tiger");
 	//create jdbc statement
